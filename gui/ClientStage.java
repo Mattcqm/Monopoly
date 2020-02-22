@@ -1,5 +1,5 @@
 package gui;
-
+//A Great GUI
 import MonopolyClient.MainClient;
 import javafx.application.Platform;
 import javafx.geometry.Insets;
